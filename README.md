@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lactobacil
 - 👀 I’m interested in IoT engineering 
-- 🌱 I’m currently learning machine learning and IoT development
+- 🌱 I’m currently learning machine learning and IoT development, also in RTOS
 - 💞️ I’m looking to collaborate on PCB design for IoT Industries
 - 📫 How to reach me, reach me on wikarapg@gmail.com and 2397833g@student.gla.ac.uk
 
